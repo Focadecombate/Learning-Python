@@ -3,8 +3,8 @@
 ###Feito por: Foca_de_combate
 print('Welcome to the Library')
 name = input("What is your name?\n ").title()
-date_today = 27
-current_month = "February"
+date_today = 8
+current_month = "March"
 Books = ['elon musk','shung tzu']
 welcome_msg = "Hi " + name + ", Welcome Back Today is " + str(date_today) + " of " + current_month
 Books.sort()
